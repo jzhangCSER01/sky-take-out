@@ -96,7 +96,7 @@ public class EmployeeServiceImpl implements EmployeeService {
     }
 
     /**
-     * 分类查询
+     * 分页查询
      * @param employeePageQueryDTO
      * @return
      */
